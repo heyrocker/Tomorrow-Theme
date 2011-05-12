@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000037</string>
+				<string>#120E26</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -32,8 +32,10 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#808080</string>
+				<string>#428BDD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +111,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BBDAFF</string>
+				<string>#0090FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +122,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#EBBBFF</string>
 			</dict>
